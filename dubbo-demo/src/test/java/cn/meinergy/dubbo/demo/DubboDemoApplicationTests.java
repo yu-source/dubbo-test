@@ -8,6 +8,7 @@ class DubboDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.printf("Hello Word !");
 	}
 
 }
